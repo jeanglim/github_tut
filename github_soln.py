@@ -5,7 +5,6 @@ Created on Mon Sep 18 13:30:21 2023
 @author: jrbrad
 """
 
-######This is a test comment - rj
 import pandas as pd
 
 # function to extract the county FIPS code from the id column
